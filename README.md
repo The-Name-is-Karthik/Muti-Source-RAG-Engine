@@ -89,6 +89,10 @@ Add your Gemini API key: `GEMINI_API_KEY=`
 ```bash
 streamlit run app.py
 ```
+---
+
+![url_demo](url_demo.png)
+![doc_demo](document_demo.png)
 
 
 ---
